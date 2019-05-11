@@ -1,4 +1,4 @@
-package src.test.java.com.commerce.controller;
+package com.commerce.controller;
 
 public class Test {
 }
